@@ -52,5 +52,8 @@ python main.py /path/to/your/photos --output my_report.json
 2. 大数量图片扫描时请耐心等待，速度取决于图片数量和大小
 3. 删除的文件会保存在系统回收站，可随时恢复
 
+## 贡献指南
+欢迎提交Issue和Pull Request改进代码！
+
 ## 许可证
 MIT License
